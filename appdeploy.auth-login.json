@@ -1,0 +1,17 @@
+{
+  "methods": [
+    "google",
+    "email"
+  ],
+  "headline": "Sunrise Properties",
+  "subtitle": "Log in or create your Sunrise Properties account",
+  "style": {
+    "mode": "light",
+    "accentColor": "#b27a22",
+    "backgroundColor": "#f7f8f5",
+    "panelColor": "#ffffff",
+    "textColor": "#172033",
+    "fontFamily": "Inter, system-ui, sans-serif",
+    "borderRadius": 14
+  }
+}
