@@ -1,0 +1,7 @@
+{
+  "name": "Sunrise Properties",
+  "package_type": "Standalone Netlify migration",
+  "logo": "public/resources/sunrise-properties-logo.png",
+  "target_site": "sunriseproperties.netlify.app",
+  "standalone_netlify_backend": true
+}
