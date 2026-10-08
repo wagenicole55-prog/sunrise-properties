@@ -15,3 +15,9 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+# Temporary fallback: keep the public site available through the working AppDeploy backend while Netlify migration is completed.
+[[redirects]]
+  from = "/*"
+  to = "https://sunrise-store-llc-qnih7n.v2.appdeploy.ai/:splat"
+  status = 200
